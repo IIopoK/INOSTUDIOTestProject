@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">INOSTUDIOTestProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shopping_list">ShoppingListActivity</string>
+    <string name="title_activity_create_list">CreateListActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+
+    <string name="list_id">listId</string>
+    <string name="product_id">productId</string>
+    <string name="newList">New list</string>
+    <string name="delete">Delete</string>
+    <string name="change">Change</string>
+</resources>
